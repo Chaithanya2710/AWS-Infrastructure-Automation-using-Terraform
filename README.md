@@ -74,8 +74,3 @@ terraform destroy
 
 ## Disclaimer
 This repository is intended for learning and demonstration purposes. Review configurations before deploying resources in production.
-
-## Author
-**Your Name**
-
-GitHub: https://github.com/YOUR-USERNAME
